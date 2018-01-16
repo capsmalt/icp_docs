@@ -1,14 +1,12 @@
 # Qiita
-## capsmalt
+## やってみた
 - [IBM Cloud Private: Kubernetesをオンプレミス(IaaS)に導入してみる](https://qiita.com/capsmalt/items/d15055ab3cb423d2d7ae)
 - [IBM Cloud Private k8sクラスターをCLIで操作してみる](https://qiita.com/capsmalt/items/9f282ce26c58873e22b6)
 - [Microservice Builderで新規にアプリを作って，IBM Cloud Private (Kubernetes) に自動デプロイしてみる](https://qiita.com/capsmalt/items/3a03d1f01534aece1b0c)
 - [アプリケーションをKubernetes環境にデプロイする(GUI)](https://qiita.com/capsmalt/items/461533dfa2e699d8e1fd)
 - [IBM Cloud Private V2.1.0.1 What's new](https://qiita.com/capsmalt/items/6cbbbeb7aac707d753c4)
-- [Kubernetes 環境のマイグレーション V2.1.0 から V2.1.0.1]
-- [Kubernetes 環境にOpenLDAPを構成する]
-- [Istioでカナリアデプロイメントをやってみた]
-
+- [V2.1.0からV2.1.0.1にマイグレーションしてみた (Kubernetes / IBM Cloud Private)](https://qiita.com/capsmalt/items/b5ed3204f484b479cf39)
+- [OpenLDAPを構成してロールベースアクセス制御を試してみる]
 
 # developerWorks
 ## 連載「Microservice Builder」
