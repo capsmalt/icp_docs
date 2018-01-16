@@ -5,12 +5,25 @@
 - [Microservice Builderで新規にアプリを作って，IBM Cloud Private (Kubernetes) に自動デプロイしてみる](https://qiita.com/capsmalt/items/3a03d1f01534aece1b0c)
 - [アプリケーションをKubernetes環境にデプロイする(GUI)](https://qiita.com/capsmalt/items/461533dfa2e699d8e1fd)
 - [IBM Cloud Private V2.1.0.1 What's new](https://qiita.com/capsmalt/items/6cbbbeb7aac707d753c4)
+- [Kubernetes 環境のマイグレーション V2.1.0 から V2.1.0.1]()
+- [Kubernetes 環境にOpenLDAPを構成する]()
+- [Istioでカナリアデプロイメントをやってみた]()
+
 
 # developerWorks
 ## 連載「Microservice Builder」
 - [第1回 Microservice Builder と WAS Liberty でマイクロサービスを開発する](http://www.ibm.com/developerworks/jp/websphere/library/icp/msb_introduction/1.html)
 - [第2回 MicroProfile Config を Kubernetes 環境で利用する](https://www.ibm.com/developerworks/jp/websphere/library/icp/msb_introduction/2.html)
+- [第3回 MicroProfile Fault Tolerance で障害許容性を向上させる]()
+- [第4回 Microservice Builder ファブリックの分散トレースを利用する]()
+- [第5回 分散トレースをもっと簡単に利用する]()
 
 ## 連載「IBM Cloud Private」
 - [第1回 IBM Cloud Private (ICP) をセットアップしてみよう](https://www.ibm.com/developerworks/jp/websphere/library/icp/icp_introduction/1.html)
 - [第2回 IBM Cloud Private 上でアプリケーションを動かしてみよう](http://www.ibm.com/developerworks/jp/websphere/library/icp/icp_introduction/2.html)
+- [第3回 IBM Cloud Privateを複数ノード構成でセットアップしてみよう]()
+- [第4回 IBM Cloud Private上でアプリケーションを作ってみよう]()
+
+## 連載「IBM Cloud Private Community Edition V2.1.0」
+- [第1回 オンライン環境でのインストール編]()
+- [第2回 オフライン環境でのインストール編]()
