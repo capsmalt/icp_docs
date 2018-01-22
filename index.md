@@ -1,4 +1,4 @@
-# by capsmalt
+# ICP関連docs & お役立ちリンク
 ## Qiita
 ### やってみた
 - [IBM Cloud Private: Kubernetesをオンプレミス(IaaS)に導入してみる](https://qiita.com/capsmalt/items/d15055ab3cb423d2d7ae)
@@ -28,7 +28,6 @@
 - [第2回 オフライン環境でのインストール編]
 
 ---------------
-# Links
 ## Kubernetes周り
 ### Project
 - [Istio](https://istio.io)
@@ -62,3 +61,7 @@
 
 ### Sample
 - [Sample_Bind a Watson Service to a Kubernetes Pod](https://developer.ibm.com/recipes/tutorials/bind-the-watson-conversation-service-to-a-bluemix-container-service-kubernetes-pod/)
+
+### Good Reference
+- [GCP: mercari](https://cloudplatform-jp.googleblog.com/2018/01/Google-Cloud-Platform-Mercari-kubernetes.html)
+-
