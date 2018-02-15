@@ -13,15 +13,15 @@
 ### 連載「Microservice Builder」
 - [第1回 Microservice Builder と WAS Liberty でマイクロサービスを開発する](http://www.ibm.com/developerworks/jp/websphere/library/icp/msb_introduction/1.html)
 - [第2回 MicroProfile Config を Kubernetes 環境で利用する](https://www.ibm.com/developerworks/jp/websphere/library/icp/msb_introduction/2.html)
-- [第3回 MicroProfile Fault Tolerance で障害許容性を向上させる]
-- [第4回 Microservice Builder ファブリックの分散トレースを利用する]
-- [第5回 分散トレースをもっと簡単に利用する]
+- [第3回 MicroProfile Fault Tolerance で障害許容性を向上させる](https://www.ibm.com/developerworks/jp/websphere/library/icp/msb_introduction/3.html)
+- [第4回 Microservice Builder ファブリックの分散トレースを利用する](https://www.ibm.com/developerworks/jp/websphere/library/icp/msb_introduction/4.html)
+- [第5回 分散トレースをもっと簡単に利用する](https://www.ibm.com/developerworks/jp/websphere/library/icp/msb_introduction/5.html)
 
 ### 連載「IBM Cloud Private」
 - [第1回 IBM Cloud Private (ICP) をセットアップしてみよう](https://www.ibm.com/developerworks/jp/websphere/library/icp/icp_introduction/1.html)
 - [第2回 IBM Cloud Private 上でアプリケーションを動かしてみよう](http://www.ibm.com/developerworks/jp/websphere/library/icp/icp_introduction/2.html)
-- [第3回 IBM Cloud Privateを複数ノード構成でセットアップしてみよう]
-- [第4回 IBM Cloud Private上でアプリケーションを作ってみよう]
+- [第3回 IBM Cloud Privateを複数ノード構成でセットアップしてみよう](https://www.ibm.com/developerworks/jp/websphere/library/icp/icp_introduction/3.html)
+- [第4回 IBM Cloud Private上でアプリケーションを作ってみよう](https://www.ibm.com/developerworks/jp/websphere/library/icp/icp_introduction/4.html)
 
 ### 連載「IBM Cloud Private Community Edition V2.1.0」
 - [第1回 オンライン環境でのインストール編]
@@ -46,7 +46,6 @@
 - [Microservice Meetup](https://microservices-meetup.connpass.com)
 - [Cloud Native Developer JP](https://cnd.connpass.com)
 
-
 ### UserGroup
 - [IBM Middleware User Community - Application Infrastructure](https://www.imwuc.org/p/do/si/topic=1573)
 - [BMXUG: Bluemix Users Group](https://bmxug.connpass.com)
@@ -64,4 +63,3 @@
 
 ### Good Reference
 - [GCP: mercari](https://cloudplatform-jp.googleblog.com/2018/01/Google-Cloud-Platform-Mercari-kubernetes.html)
--
